@@ -9,3 +9,5 @@
 + pip install gradio
 + pip3 install transformers==4.9.2
 + pip install soundfile
+## Result
+![result]()
