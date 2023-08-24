@@ -7,7 +7,7 @@
 ## Install for Ubuntu 22.04
 + **CUDA 11.7:** pip3 install torch torchvision torchaudio
 + pip install gradio
-+ pip3 install transformers==4.9.2
++ pip3 install transformers
 + pip install soundfile
 ## Result
 ![result]()
