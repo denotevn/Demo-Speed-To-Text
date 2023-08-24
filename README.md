@@ -10,4 +10,4 @@
 + pip3 install transformers
 + pip install soundfile
 ## Result
-![result]()
+![result](https://github.com/denotevn/Demo-Speed-To-Text/blob/main/images/result01.png)
